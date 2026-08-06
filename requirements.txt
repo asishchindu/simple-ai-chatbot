@@ -4,3 +4,5 @@ langchain
 langchain-anthropic
 python-dotenv
 pydantic
+qdrant-client
+fastembed
